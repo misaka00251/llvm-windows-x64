@@ -6,6 +6,8 @@
 
 # Unofficial LLVM Builds for Windows x64
 
+> Disclaimer: Use at your own risk!
+
 ## Download
 
 [The latest version](https://github.com/misaka00251/llvm-windows-x64/releases)
