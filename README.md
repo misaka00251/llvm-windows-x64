@@ -8,6 +8,12 @@
 
 > Disclaimer: Use at your own risk!
 
+## FAQ
+
+### I get "Warning! PATH too long installer unable to modify PATH!" error.
+
+Well, just manually add `C:\Program Files\LLVM\bin` to your PATH.
+
 ## Download
 
 [The latest version](https://github.com/misaka00251/llvm-windows-x64/releases)
